@@ -1,6 +1,6 @@
 // Function that takes a number as an argument, then increments it by +1 and returns the result.
-function addition(num){
-    return num + 1
+function addition(num) {
+  return num + 1;
 }
 
 // Test cases
