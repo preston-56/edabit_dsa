@@ -1,1 +1,1 @@
-# edabit_dsa
+# Edabit Challenges
